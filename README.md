@@ -1,1 +1,10 @@
 # JavaScripts
+
+## 1 - Password Strength Check 
+
+![image](https://user-images.githubusercontent.com/61595808/205874454-c02a9547-597a-493b-9439-a4fc19f77c25.png)
+
+
+![image](https://user-images.githubusercontent.com/61595808/205874576-3d2370dc-c383-402a-b498-4b7ee488ee69.png)
+
+
