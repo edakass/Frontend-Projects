@@ -1,6 +1,7 @@
-# JavaScripts
+# JavaScript Projects
 
-## 1 - Password Strength Check 
+## 1 - <a href="https://github.com/edakass/JavaScript/tree/main/Password-Strength-Check">Password Strength Check </a>
+
 
 ![image](https://user-images.githubusercontent.com/61595808/205874454-c02a9547-597a-493b-9439-a4fc19f77c25.png)
 
