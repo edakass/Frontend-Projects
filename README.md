@@ -18,3 +18,6 @@ npx create-react-app react-todos
 cd react-todos
 
 npm start
+
+![image](https://user-images.githubusercontent.com/61595808/206280261-b12c1bf0-63e4-4ae9-a3ae-d670325d9457.png)
+
