@@ -1,4 +1,4 @@
-# JavaScript Projects
+# Frontend Projects
 
 ## 1 - <a href="https://github.com/edakass/JavaScript/tree/main/Password-Strength-Check">Password Strength Check </a>
 
@@ -14,3 +14,7 @@
 Terminal
 
 npx create-react-app react-todos
+
+cd react-todos
+
+npm start
