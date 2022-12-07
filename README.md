@@ -10,3 +10,7 @@
 
 
 ## 2 - React Todo Project
+
+Terminal
+
+npx create-react-app react-todos
