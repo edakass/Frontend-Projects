@@ -25,3 +25,7 @@ npm start
 
 ![image](https://user-images.githubusercontent.com/61595808/206280772-b259251b-3e0c-4fb4-819a-1f604e5a992b.png)
 
+2.1.
+
+![image](https://user-images.githubusercontent.com/61595808/206559692-821b7258-fca8-49de-98bd-131823c3d465.png)
+
