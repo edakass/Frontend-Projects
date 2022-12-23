@@ -29,3 +29,9 @@ npm start
 
 ![image](https://user-images.githubusercontent.com/61595808/206559692-821b7258-fca8-49de-98bd-131823c3d465.png)
 
+![image](https://user-images.githubusercontent.com/61595808/209396397-3bb2e0e7-8f07-4681-93c6-60def2b315ff.png)
+
+![image](https://user-images.githubusercontent.com/61595808/209396413-099c91e8-3f0e-4d18-9233-a736959a22da.png)
+
+![image](https://user-images.githubusercontent.com/61595808/209396430-f244e35d-4512-43c8-b22a-1ed32fd29a40.png)
+
