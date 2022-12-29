@@ -34,17 +34,15 @@ npm start
 ![image](https://user-images.githubusercontent.com/61595808/209396413-099c91e8-3f0e-4d18-9233-a736959a22da.png)
 
 
--*-*-*-
+![image](https://user-images.githubusercontent.com/61595808/209396430-f244e35d-4512-43c8-b22a-1ed32fd29a40.png)
+
+![image](https://user-images.githubusercontent.com/61595808/209582034-0180c650-ecf4-4f28-864f-be0c8aba5e35.png)
+
+------------------------------------------------------------------
+
 
 ![image](https://user-images.githubusercontent.com/61595808/209986459-08f207e1-4643-4e47-9d79-f60b4413f19a.png)
 
 
 
 ![image](https://user-images.githubusercontent.com/61595808/209986442-34356bde-b5d9-4de0-a0b8-645ff72412af.png)
-
-
-![image](https://user-images.githubusercontent.com/61595808/209396430-f244e35d-4512-43c8-b22a-1ed32fd29a40.png)
-
-![image](https://user-images.githubusercontent.com/61595808/209582034-0180c650-ecf4-4f28-864f-be0c8aba5e35.png)
-
-
