@@ -41,6 +41,7 @@ npm start
 ------------------------------------------------------------------
 
 
+
 ![image](https://user-images.githubusercontent.com/61595808/209986459-08f207e1-4643-4e47-9d79-f60b4413f19a.png)
 
 
@@ -51,4 +52,10 @@ npm start
 -----------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/61595808/209987509-a6fbe063-250d-418c-ba22-0d85dbf5c11e.png)
+
+----------------------
+
+![image](https://user-images.githubusercontent.com/61595808/210156230-9d8ec89a-1ad5-4b35-a46b-61b8840f61df.png)
+
+row' TIKLAYINCA O BİLGİTYİ SİLİYORUZ ONUDA ONcLİCK İLE İLGİLİ İŞLEMLERDE YAPTIK
 
