@@ -59,3 +59,8 @@ npm start
 
 row' TIKLAYINCA O BİLGİTYİ SİLİYORUZ ONUDA ONcLİCK İLE İLGİLİ İŞLEMLERDE YAPTIK
 
+
+--------------------
+
+
+## 3 TypeScript
