@@ -64,3 +64,8 @@ row' TIKLAYINCA O BİLGİTYİ SİLİYORUZ ONUDA ONcLİCK İLE İLGİLİ İŞLEML
 
 
 ## 3 TypeScript
+
+![image](https://user-images.githubusercontent.com/61595808/210220592-2432d562-dd07-4a69-97d9-1711e54b73df.png)
+
+
+ilk önce typescripti oluşturdum daha sonra  tsc myhellloworld.ts dedikten sonra js oluştu ve js yi de  node ile çalıştırdım.
