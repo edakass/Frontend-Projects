@@ -96,6 +96,7 @@ ilk önce typescripti oluşturdum daha sonra  tsc myhellloworld.ts dedikten sonr
 
 ![image](https://user-images.githubusercontent.com/61595808/210447887-b65ae9c2-65f8-4cbb-ba67-0d4bfbb7face.png)
 
+![image](https://user-images.githubusercontent.com/61595808/210448805-30b20b31-726e-4fb8-8140-beeede4ec399.png)
 
 
 
