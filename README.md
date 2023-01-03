@@ -80,4 +80,10 @@ ilk önce typescripti oluşturdum daha sonra  tsc myhellloworld.ts dedikten sonr
 
 ![image](https://user-images.githubusercontent.com/61595808/210278078-f6dd8e4d-4175-4358-99f2-d5d734ed1b9a.png)
 
+32.
+
+![image](https://user-images.githubusercontent.com/61595808/210444446-66517910-3681-45d6-acbd-12cba13656e7.png)
+
+
+
 
