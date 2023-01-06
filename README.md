@@ -139,6 +139,10 @@ ilk önce typescripti oluşturdum daha sonra  tsc myhellloworld.ts dedikten sonr
 
 ![image](https://user-images.githubusercontent.com/61595808/211072107-8227adf7-3939-4a06-bf08-dba61189e749.png)
 
+### 47.
+
+![image](https://user-images.githubusercontent.com/61595808/211096716-ec5bb245-9474-45f8-bbf4-78e296c698a4.png)
+
 
 
 
