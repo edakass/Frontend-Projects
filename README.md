@@ -149,6 +149,10 @@ ilk önce typescripti oluşturdum daha sonra  tsc myhellloworld.ts dedikten sonr
 
 ## Section 8 
 
+### 51.
+
+
+
 
 
 
