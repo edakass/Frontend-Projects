@@ -151,7 +151,7 @@ ilk önce typescripti oluşturdum daha sonra  tsc myhellloworld.ts dedikten sonr
 
 ### 51.
 
-
+ npm set registry=https://registry.npmjs.org/
 
 
 
